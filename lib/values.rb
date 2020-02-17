@@ -13,4 +13,5 @@ def get_the_values(groceries)
   groceries.keys do |key|
   end 
 end
-key
+
+groceries
